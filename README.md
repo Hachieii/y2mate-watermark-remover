@@ -3,3 +3,6 @@
 
 ## How to use
 It's simple, just paste the path of the folder you need to modify and then you're done! All files including files in child folders have been handled.
+
+## Current problems
+Only works on window
